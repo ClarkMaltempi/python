@@ -1,8 +1,7 @@
 # Perceptron: algoritmo de aprendizado
 
-# Obs: Para que o programa possa ser executado, crie um ambiente para utilizar a linguagem python, e importe a biblioteca :
-<a href srr="https://github.com/joelgrus/data-science-from-scratch">linear_algebra.py
-</a>
+<p>Obs: Para que o programa possa ser executado, crie um ambiente para utilizar a linguagem python, e importe a biblioteca :
+<a href srr="https://github.com/joelgrus/data-science-from-scratch">linear_algebra.py</a></p>
 
 
 <p>Esse teste de nível baixo, simulo a aprendizagem de máquina, 
