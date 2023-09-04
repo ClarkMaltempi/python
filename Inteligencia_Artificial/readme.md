@@ -4,7 +4,7 @@
 <a href srr="https://github.com/joelgrus/data-science-from-scratch">linear_algebra.py</a></p>
 
 
-<p>Esse teste de nível baixo, simulo a aprendizagem de máquina, 
+<p>Nesse teste de nível baixo, simulo a aprendizagem de máquina, 
 estimulando as entradas da rede por meio de padrões de entrada e observar a saída calculada pela mesma, 
 comparando com a saída desejada. Como a resposta da rede é a função dos valores atuais do seu conjunto de pesos (números de conexões),
 estes são ajustados de forma a aproximar a saída da rede para a saída desejada.</p></br>
